@@ -196,7 +196,7 @@ export default function Onboarding() {
         </div>
 
         <div className="bg-gray-50 px-8 py-4 border-t border-gray-100 text-center text-xs text-gray-500">
-          Built for the AI Product Builder Role · Scaler
+          Built for converting Leads at Scale · Scaler
         </div>
       </div>
     </main>
