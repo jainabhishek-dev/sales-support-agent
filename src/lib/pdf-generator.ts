@@ -24,8 +24,8 @@ export async function generatePDF(html: string): Promise<Buffer> {
 
   const page = await browser.newPage();
   
-  // Set content
-  await page.setContent(html, { waitUntil: "networkidle0" });
+  // Set content with a faster timeout
+  await page.setContent(html, { waitUntil: "domcontentloaded" });
   
   // Generate PDF
   const pdfBuffer = await page.pdf({

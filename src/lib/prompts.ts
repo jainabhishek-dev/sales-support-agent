@@ -19,26 +19,27 @@ Instructions:
 
 export function buildNudgePrompt(profile: LeadProfile): string {
   return `
-You are an expert sales coach for Scaler.
-Given the following Lead Profile, generate a concise, scannable pre-sales nudge for the BDA (Business Development Associate) who is about to call this lead in 2 minutes.
-
-LEAD PROFILE:
-Name: ${profile.name}
-Role: ${profile.role}
-Company: ${profile.company}
-Experience: ${profile.yearsOfExperience} years
-Intent: ${profile.intent}
-LinkedIn/Notes: ${profile.linkedinNotes}
-${profile.currentSalaryLPA ? `Current Salary: ${profile.currentSalaryLPA} LPA` : ""}
-
-Instructions:
-- Write like a teammate messaging on WhatsApp. Keep it punchy and scannable.
-- Provide a likely persona for this lead and why they might be looking for Scaler.
-- Provide 2 or 3 angles that will resonate with them, tied to real facts from their profile.
-- Provide 2 or 3 likely objections with a one-line handle for each.
-- Provide a suggested opening hook (the first 10 seconds of the call).
-- Include a disclaimer section that explicitly states what is FACT, what is INFERRED, and what is MISSING from their profile.
-`;
+    You are a sales assistant helping a Scaler BDA prepare for a call.
+    
+    LEAD PROFILE:
+    ${JSON.stringify(profile, null, 2)}
+    
+    TASK:
+    Generate a short, scannable WhatsApp nudge. 
+    STRICT LIMIT: Total response must be under 1000 characters.
+    
+    FORMAT (JSON):
+    {
+      "persona": "Short 1-sentence persona",
+      "likelyMotivation": "1-sentence motivation",
+      "angles": ["Angle 1", "Angle 2"],
+      "objections": [{"objection": "...", "handle": "..."}],
+      "openingHook": "Direct, non-generic opening line",
+      "disclaimer": "Fact vs Inference"
+    }
+    
+    Tone: Teammate-like, scannable, direct. No corporate fluff.
+  `;
 }
 
 export function buildTranscribeCallPrompt(): string {
