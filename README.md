@@ -2,24 +2,14 @@
 
 This repository contains the complete assignment for the AI Product Builder role at Scaler.
 
-## 1. What was built
-- **A 3-Step BDA Assistant:** The agent helps BDAs parse raw lead data, prepares them for a call via a WhatsApp nudge, and automatically generates a highly personalized post-call PDF.
-- **Smart Input Parsing:** BDAs can paste raw CRM text or use a voice note. A Gemini 2.5 Flash agent structure parses the intent, name, and background into an editable form.
-- **Pre-Sales Nudge:** An internal WhatsApp message is sent to the BDA with specific angles, a hook, and likely objections tailored to the lead's profile.
-- **Post-Call PDF:** After pasting or uploading the call transcript, the app extracts questions raised by the lead, pulls verified answers from `scaler-context.ts`, and uses Gemini 2.5 Pro to write a highly targeted, premium PDF.
-- **Tech Stack:** Next.js 16 (App Router), Tailwind CSS, Puppeteer Core (with Vercel Sparticuz Chromium), Vercel Blob storage, Twilio WhatsApp Sandbox, and Google Gemini API.
+## 1. What I built
+A two-part AI sales assistant that supercharges Scaler BDAs via WhatsApp. First, it processes raw CRM notes or audio to generate a scannable pre-call nudge, giving the BDA specific angles and objection handles based on the lead's profile. Second, it ingests the call transcript to generate a highly personalized, visually distinct post-call PDF that answers the lead's specific questions using verified curriculum data, routed through the BDA for approval before delivery.
 
-## 2. One failure (or near-failure) and how I fixed it
-- **Vercel Chromium Size Limitations:** Initially, generating a PDF using standard `puppeteer` on Vercel Edge/Serverless limits causes immediate deployment failures because the standard Chromium bundle exceeds the 50MB function limit.
-- **The Fix:** I switched to `puppeteer-core` paired with `@sparticuz/chromium`. This package downloads a highly compressed, serverless-friendly version of Chromium at runtime or uses a pre-compiled package within limits, allowing high-quality HTML-to-PDF rendering (far better than standard HTML-to-PDF APIs like html2pdf.js) without hitting Vercel limits.
+## 2. One failure I found
+Initially, the AI produced generic PDFs that converged to a middle ground, ignoring program nuances. I fixed this by extracting hard facts from the 4 course brochures into a TypeScript catalog and implementing a deterministic routing function, forcing the AI to cite specific modules instead of hallucinating marketing claims.
 
-## 3. What breaks if we 100x the usage today
-- **Rate Limits & API Costs:** The application is highly dependent on synchronous external APIs (Twilio, Gemini, Blob). At 100x scale, Vercel function timeouts or Gemini rate limits (especially Pro models) will cause failures.
-- **Lack of Persisted State:** The current app uses React State and Session Storage. A BDA cannot retrieve a past lead's PDF or see history.
-- **The Scale Plan:**
-  1. Introduce a Database (e.g., Supabase PostgreSQL) to save Leads, Transcripts, and PDF URLs.
-  2. Move PDF generation and Twilio sending to an asynchronous background worker queue (e.g., Inngest or Upstash QStash) rather than blocking the HTTP request.
-  3. Batch processing of nudges.
+## 3. Scale plan
+If we hit 100,000 leads a month, two things break: **Synchronous Execution** and **Context Windows**. Currently, PDF generation and WhatsApp delivery block the HTTP request; at scale, Vercel timeouts will crash the app. We must migrate these to asynchronous background queues (e.g., Inngest). Secondly, dumping full 45-minute call transcripts into the prompt will hit token limits and degrade extraction quality. We'd need to implement an intermediate chunked-summarization step to extract questions robustly before generating the final PDF.
 
 ---
 
