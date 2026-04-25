@@ -394,13 +394,13 @@ BLOB_READ_WRITE_TOKEN=            # Vercel → Storage → Blob → Token (auto-
 
 ## Verification Checklist
 
-- [ ] Paste-from-CRM → parse → pre-filled form works with arbitrary text
-- [ ] Voice record → parse → pre-filled form works
-- [ ] Pre-sales nudge generated and WhatsApp arrives (no approval gate)
-- [ ] All 3 persona PDFs look and read visibly different
-- [ ] BDA approval gate shown before every lead-facing send
-- [ ] Audio call upload → transcript → PDF → WhatsApp works end-to-end
-- [ ] Evaluator's own input works (not hardcoded)
+- [x] Paste-from-CRM → parse → pre-filled form works with arbitrary text
+- [x] Voice record → parse → pre-filled form works
+- [x] Pre-sales nudge generated and WhatsApp arrives (no approval gate)
+- [x] All 3 persona PDFs look and read visibly different
+- [x] BDA approval gate shown before every lead-facing send
+- [x] Audio call upload → transcript → PDF → WhatsApp works end-to-end
+- [x] Evaluator's own input works (not hardcoded)
 - [ ] Live Vercel link functional
 
 ---
