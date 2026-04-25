@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { QRCodeSVG } from "qrcode.react";
 
 // Curated list of common country codes — add more as needed
 const COUNTRY_CODES = [
@@ -191,6 +192,22 @@ export default function Onboarding() {
               >
                 Start Session →
               </button>
+            )}
+
+            {verificationState !== "verified" && (
+              <div className="mt-6 pt-6 border-t border-gray-100">
+                <p className="text-center text-sm font-medium text-gray-700 mb-4">
+                  New here? Scan to join the Twilio Sandbox
+                </p>
+                <div className="flex flex-col items-center gap-3">
+                  <div className="p-2 bg-white rounded-xl shadow-sm border border-gray-200">
+                    <QRCodeSVG value="https://wa.me/14155238886?text=join%20applied-still" size={120} />
+                  </div>
+                  <p className="text-xs text-gray-500 text-center">
+                    Or send <strong>join applied-still</strong> to <strong>+1 415 523 8886</strong>
+                  </p>
+                </div>
+              </div>
             )}
           </div>
         </div>
