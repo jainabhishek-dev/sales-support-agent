@@ -1,0 +1,500 @@
+================================================================================
+SCALER ACADEMY - COURSE BROCHURE 2026
+Modern Software and AI Engineering Program
+with Specialisation in GenAI/Agentic AI
+================================================================================
+
+--------------------------------------------------------------------------------
+ABOUT SCALER
+--------------------------------------------------------------------------------
+Scaler (by InterviewBit) is an outcome-focused leading ed-tech platform for tech
+enthusiasts. We are a transformative tech school devoted to creating a growth
+ecosystem to assist software professionals in unlocking talent & opportunities at
+every stage of their career. We've rebuilt our curriculum to make you AI-native —
+integrating real AI tools, workflows, and problem-solving into how you learn. So
+you don't just keep up with change, you stay ahead of it ready to build, adapt,
+and thrive in how engineering actually works today.
+
+--------------------------------------------------------------------------------
+TECH LANDSCAPE — The Industry Needs SDEs with AI Skills
+--------------------------------------------------------------------------------
+AI is revolutionising the tech industry, making it vital for SDEs to embrace this
+transformative technology. Whether you're building intelligent applications or
+optimising workflows, AI can be the edge that propels you to the forefront of
+innovation.
+
+Key Stats:
+- 1.3 Million New Jobs: AI has already added 1.3 million new jobs (Source: LinkedIn / World Economic Forum)
+- 66% of Leaders: Say they would not hire professionals who lack expertise in AI (Source: Microsoft)
+- 71% of Employers: Prefer professionals with AI skills to experienced ones without (Source: Microsoft)
+- 80% Professionals: Working in tech will be expected to gain AI skills by 2027 (Source: Gartner)
+
+--------------------------------------------------------------------------------
+BUILD AI SKILLS — Choose Scaler to Learn AI
+--------------------------------------------------------------------------------
+Scaler bridges the gap between software development and AI expertise. With a
+structured curriculum, live classes by industry experts, and hands-on projects,
+you'll master AI tools and techniques alongside core development skills.
+
+ENHANCE SDE SKILLS WITH AI
+As a software developer, integrating AI into your skillset empowers you to:
+- Automate complex tasks and improve efficiency
+- Develop intelligent systems that learn and adapt
+- Create innovative UX with AI-driven personalisation
+
+--------------------------------------------------------------------------------
+SCALER OVERVIEW — Modern Software and AI Engineering Program
+--------------------------------------------------------------------------------
+Many aspiring engineers face challenges due to outdated teaching methods and
+content. Scaler has integrated AI-driven modules to bridge this gap and equip
+learners with skills that will make them future-ready.
+
+What you can expect:
+- Structured, flexible, industry-vetted curriculum
+- Live classes by experts who have been there, done that
+- Get hands-on experience with live projects
+- Placement support & career guidance
+- Regular 1:1 mentorship
+- 9–11 months of dedicated learning
+- AI-powered mock interviews & teaching assistance
+
+--------------------------------------------------------------------------------
+SCALER ADVANTAGE — Fastest Route to Your Dream Career
+--------------------------------------------------------------------------------
+1. 24×7 AI Companion
+   Always-on learning buddy that uses contextual help & dialogue based solutioning,
+   blending AI speed with mentor expertise.
+
+2. Unlimited AI Mock Interviews
+   Real role-based simulations with unlimited practice anytime, structured to match
+   actual MAANG interview journeys.
+
+3. AI-Powered Resume Builder
+   ATS-ready resumes powered by 100K+ real profiles; Scaler learners historically
+   have seen 5× more interview calls.
+
+4. Taught by Industry Leaders
+   Learn from on-the-job top professionals, not career teachers. Practical insights
+   rated highly by 50K+ learners.
+
+5. Live Classes with Recording
+   Interactive live sessions with instant recordings & notes for revision.
+
+6. Expert Mentor Guidance
+   1:1 personalized advice from top-firm mentors mapped to your profile and career goals.
+
+7. Monthly Contests
+   Module-specific tests tied to job readiness, with unlimited attempts for improvement.
+
+8. Skill Certifications
+   Rigorous module-level certifications that prove job-ready skills recruiters trust.
+
+9. Coding Streak
+   Daily practice streaks with rewards & streak freeze to help you stay consistent.
+
+10. Extend into Master's Degree
+    Scaler credits convert into a globally recognized Master's via Woolf.
+
+--------------------------------------------------------------------------------
+WHO IS THIS FOR? — Eligibility & Fit Check
+--------------------------------------------------------------------------------
+Before you begin your upskilling journey, your roots must be in:
+- Engineering / IT / Maths Background
+  OR
+- Developing role (Service-based company)
+  OR
+- Engineering role (Product-based company)
+
+Take the Scaler Entrance Test: 16 MCQs and see where you fit.
+
+Batch Options:
+1. BEGINNER BATCH — 18 Months Journey
+   For learners with little or no coding experience
+
+2. INTERMEDIATE BATCH — 18 Months Journey
+   For learners with basic coding experience
+
+3. ADVANCED BATCH — 17 Months Journey
+   For learners with notable coding experience
+
+--------------------------------------------------------------------------------
+AI-FIRST CURRICULUM
+--------------------------------------------------------------------------------
+Every job description in today's world is being rewritten. 66% of leaders say
+they would not hire professionals who lack AI expertise. The reason is obvious:
+any repetitive or analytical tasks can now be automated, leaving employees to
+focus on strategy, creativity, and human-centric skills.
+
+Stats:
+- 1.3M New jobs by 2025 will be created by AI (World Economic Forum)
+- 66% Leaders say they would not hire professionals who lack expertise in AI (Microsoft)
+- 71% Employers prefer professionals with AI skills to experienced ones without (Microsoft)
+- 80% Professionals working in tech will be expected to gain AI skills by 2027 (Gartner)
+
+================================================================================
+COURSE OUTLINE FOR BEGINNERS — 18 Months
+================================================================================
+
+PROGRAMMING FUNDAMENTALS
+--------------------------
+Core:
+- Programming Language Fundamentals – Thinking with AI: Logics, Loops & Control Flow  | 02 Months
+- Programming Language Fundamentals – Code Smarter with AI: Function & Arrays
+- Intermediate DSA: AI Assisted Problem Solving                                         | 01 Month
+- AI & Agents: From Talking to AI to Building One                                       | 01 Month
+- Advanced DSA: Foundations: Core Techniques & Optimization                             | 04 Months
+- Advanced DSA: Linear & Non-Linear Structures
+- Advanced DSA: Backtracking & Advanced Trees
+- Advanced DSA: DP, Heaps & Graphs — Crack It with AI Edge
+
+Optional:
+- DSA Edge: Advanced Patterns & Interview Techniques                                    | 01 Month
+
+DATABASES & SQL
+---------------
+Core:
+- Databases & SQL                                                                       | 01 Month
+
+BACKEND (Choose one specialisation)
+-------------------------------------
+Specialisation:
+- Foundations of Object-Oriented Design & Scalable Systems                              | 04 Months
+- Design Principles & Patterns for Extensible Systems
+- Applied Design & Machine Coding
+- AI-First Backend Capstone Project                                                     | 1.5 Months
+- Build a Production-Ready AI-Enabled System
+
+OR
+
+FULLSTACK
+---------
+Specialisation:
+- Foundations of AI-Assisted Full-Stack Development                                     | 06 Months
+- Web Platform Foundations & UI Systems
+- JavaScript Runtime Systems, Browser APIs & Product Engineering Labs
+- React, TypeScript and Frontend Product Architecture
+- Backend Product Systems, APIs and Production Engineering
+
+SYSTEM DESIGN
+-------------
+Core:
+- Distributed System Design & AI-Integrated Architectures                               | 1.5 Months
+
+INTERVIEW PREPARATION
+---------------------
+Elective (Optional):
+- Mastering LastMile – Interview Simulation                                             | 1.5 Weeks
+
+FORWARD DEPLOYMENT ENGINEERING
+-------------------------------
+Elective (Optional):
+- Forward Deployment Engineering (FDE) Lab                                              | 2.5 Months
+- Data Engineering                                                                      | 02 Months
+- Product Management for Engineers                                                      | 01 Month
+- Gen AI for Software Engineers                                                         | 01 Month
+
+================================================================================
+COURSE OUTLINE FOR INTERMEDIATE — 18 Months
+================================================================================
+
+PROGRAMMING FUNDAMENTALS
+--------------------------
+Core:
+- Intermediate DSA with AI Assistance                                                   | 01 Month
+- AI & Agents: From Talking to AI to Building One                                       | 01 Month
+- Advanced DSA: Foundations: Core Techniques & Optimization                             | 04 Months
+- Advanced DSA: Linear & Non-Linear Structures
+- Advanced DSA: Backtracking & Advanced Trees
+- Advanced DSA: DP, Heaps & Graphs — Crack It with AI Edge
+
+Optional:
+- DSA Edge: Advanced Patterns & Interview Techniques                                    | 01 Month
+
+DATABASES & SQL
+---------------
+Core:
+- Databases & SQL                                                                       | 01 Month
+
+BACKEND (Choose one specialisation)
+-------------------------------------
+Specialisation:
+- Foundations of Object-Oriented Design & Scalable Systems                              | 04 Months
+- Design Principles & Patterns for Extensible Systems
+- Applied Design & Machine Coding
+- AI-First Backend Capstone Project                                                     | 1.5 Months
+- Build a Production-Ready AI-Enabled System
+
+OR
+
+FULLSTACK
+---------
+Specialisation:
+- Foundations of AI-Assisted Full-Stack Development                                     | 06 Months
+- Web Platform Foundations & UI Systems
+- JavaScript Runtime Systems, Browser APIs & Product Engineering Labs
+- React, TypeScript and Frontend Product Architecture
+- Backend Product Systems, APIs and Production Engineering
+
+SYSTEM DESIGN
+-------------
+Core:
+- Distributed System Design & AI-Integrated Architectures                               | 1.5 Months
+
+INTERVIEW PREPARATION
+---------------------
+Elective (Optional):
+- Mastering LastMile – Interview Simulation                                             | 0.15 Months
+
+FORWARD DEPLOYMENT ENGINEERING
+-------------------------------
+Elective (Optional):
+- Forward Deployment Engineering (FDE) Lab                                              | 2.5 Months
+- Data Engineering                                                                      | 02 Months
+- Product Management for Engineers                                                      | 01 Month
+- Gen AI for Software Engineers                                                         | 02 Months
+
+================================================================================
+COURSE OUTLINE FOR ADVANCED — 17 Months
+================================================================================
+
+AGENTIC AI
+----------
+Core:
+- AI & Agents: From Talking to AI to Building One                                       | 01 Month
+- Advanced DSA: Foundations: Core Techniques & Optimization                             | 04 Months
+- Advanced DSA: Linear & Non-Linear Structures
+- Advanced DSA: Backtracking & Advanced Trees
+- Advanced DSA: DP, Heaps & Graphs — Crack It with AI Edge
+
+Optional:
+- DSA Edge: Advanced Patterns & Interview Techniques                                    | 01 Month
+
+SQL
+---
+Core:
+- SQL                                                                                   | 01 Month
+
+BACKEND (Choose one specialisation)
+-------------------------------------
+Specialisation:
+- Foundations of Object-Oriented Design & Scalable Systems                              | 04 Months
+- Design Principles & Patterns for Extensible Systems
+- Applied Design & Machine Coding
+- AI-First Backend Capstone Project                                                     | 1.5 Months
+- Build a Production-Ready AI-Enabled System
+
+OR
+
+FULLSTACK
+---------
+Specialisation:
+- Foundations of AI-Assisted Full-Stack Development                                     | 06 Months
+- Web Platform Foundations & UI Systems
+- JavaScript Runtime Systems, Browser APIs & Product Engineering Labs
+- React, TypeScript and Frontend Product Architecture
+- Backend Product Systems, APIs and Production Engineering
+
+SYSTEM DESIGN
+-------------
+Core:
+- Distributed System Design & AI-Integrated Architectures                               | 1.5 Months
+
+INTERVIEW PREPARATION
+---------------------
+Elective (Optional):
+- Mastering LastMile – Interview Simulation                                             | 1.5 Weeks
+
+FORWARD DEPLOYMENT ENGINEERING
+-------------------------------
+Elective (Optional):
+- Forward Deployment Engineering (FDE) Lab                                              | 2.5 Months
+- Data Engineering                                                                      | 02 Months
+- Product Management for Engineers                                                      | 01 Month
+- Gen AI for Software Engineers                                                         | 02 Months
+
+--------------------------------------------------------------------------------
+OPTIONAL PAID CERTIFICATION ADD-ON — Level Up with IIT-Roorkee
+--------------------------------------------------------------------------------
+Advanced AI Engineering Program from India's Oldest Technical Institute
+
+Rankings:
+- Rank 8 on National Institutional Ranking Framework, Overall – 2023
+- Rank 6 on National Institutional Ranking Framework, Engineering – 2024
+
+Alumni at: Amazon, Microsoft, GE, Goldman Sachs, Adobe
+
+Program Highlights:
+- Domain-specific AI use cases for practical learning
+- Certificate from one of the top institutes in India
+- Curriculum designed by expert IIT faculty
+- Learn by building AI & ML applications for different problem statements
+
+IIT-ROORKEE CAMPUS IMMERSION — Spend 2 Days on Campus
+- Access to research labs with cutting-edge tech
+- IIT-Roorkee resources & facilities at your disposal
+- Food & accommodation included
+- Fireside chat with industry experts
+
+IIT-Roorkee Instructor:
+Pravendra Singh — Assistant Professor, IIT Roorkee
+  Ph.D. in CSE from IIT Kanpur
+  19 articles published in renowned journals
+  10+ awards & grants from IITs, Google, Microsoft, etc.
+
+--------------------------------------------------------------------------------
+SCALER SUCCESS STORIES
+--------------------------------------------------------------------------------
+Key Outcomes:
+- 21.6 L    — Average CTC for Scaler Learners
+- 1.7 Cr    — Highest Package Offered to a Scaler Learner
+- 31.8%     — Promotion Rate (One Year Post Scaler)
+- 126%      — Average Hike for Scaler Learners
+- 2000+     — Success Stories of Scaler Learners
+
+Testimonials:
+- Anuj Maurya (Wipro → Amazon, Software Developer)
+- Priyanka Kumari (Infosys → Samsung, Lead Engineer)
+- Akash Srivastava (TCS → Adobe, Software Engineer 2)
+- Yash Vardhan Raizada (L&T → Microsoft, Software Engineer)
+- Sudhanshu Gera (Wipro → Walmart, SDE 3)
+- Chandrakanth Nethi (Deloitte → Swiggy, SDE)
+
+--------------------------------------------------------------------------------
+BATCH PROFILE
+--------------------------------------------------------------------------------
+Learners' Work Experience:
+- 0–2 Years:   40.3%
+- 2–5 Years:   27.9%
+- 5–10 Years:  22.4%
+- 10+ Years:    9.4%
+
+Learners' Industry Background:
+- Software Developers/Engineers:  66.4%
+- Non IT/Business Roles:          19.1%
+- Other IT/Tech Roles:            14.5%
+
+Learners' Academic Background:
+- IITs/NITs/IIITs/BITS:  10.1%
+- Others:                89.9%
+
+Average Salary Post Scaler by Experience:
+- 0–2 years:   INR 16.6 LPA
+- 2–6 years:   INR 20.1 LPA
+- 6–10 years:  INR 31.9 LPA
+- 10+ years:   INR 57.2 LPA
+
+--------------------------------------------------------------------------------
+MEET OUR INSTRUCTORS
+--------------------------------------------------------------------------------
+1. Anshuman Singh — Co-Founder, Scaler | Ex-Facebook
+   Two-time ACM ICPC world finalist. Founding team member of Facebook Messenger.
+   Worked directly with Mark Zuckerberg on product development.
+
+2. Shivank Agarwal — Ex-Microsoft
+   Senior V.P., Data Science at Scaler
+   Ex-Senior Software Development Manager, Microsoft
+   Ex-Engineering Manager, Inmobi
+   Ex-Software Development Manager, Oracle
+
+3. Naman Bhalla — Ex-Google
+   Global rank 135 at Google's Kickstart Round D
+   37th rank at ACM ICPC Kanpur Regionals, 2019-20
+   Proficient in Spring, React, Redis, Kafka, and Flask
+
+4. Kshitij Mishra — Ex-Software Engineer, Snapdeal
+   Ex-Lead Software Engineer at InterviewBit
+   B.Tech in CSE from IIIT Hyderabad
+   Currently heading the team of Instructors at Scaler
+
+5. Utkarsh Gupta — Ex-Google, Germany
+   Master at Codeforces; 6-star coder at CodeChef
+   AIR 1 in Google Hash Code 2019
+   Team Manager and Instructor at InterviewBit/Scaler
+
+6. Shubham Soni — Software Engineer, Google (Bengaluru)
+   Works on large-scale backend systems
+   Ex-Software Engineer at Intuit, Credit Suisse, Veritas Technologies
+
+7. Anurag Khanna — Software Engineer, Microsoft (Noida)
+   Ex-Software Development Engineer at Amazon
+   Ex-SDE at Cadence Design Systems
+
+8. Umang Agrawal — SDE-II, Amazon
+   Drives incentives strategy for Everyday Essentials at Amazon
+   Ex-Software Engineer at Microsoft
+
+9. Kunal Jindal — SDE-II, Atlassian
+   Ex-Software Engineer II at Microsoft
+   One of the youngest SDE-IIs and first members of CO+I India team
+
+--------------------------------------------------------------------------------
+MEET OUR MENTORS
+--------------------------------------------------------------------------------
+1. Goutham Harsha — Tech Lead, Google Switzerland (Rating: 4.9/5)
+   Ex-Apple (Senior SWE), Ex-Microsoft (SDE-II)
+   Worked on Azure Compute, Apple Music, Google Borg
+
+2. Udit Agarwal — Microsoft (Rating: 4.9/5)
+   Backend expert; worked with Microsoft, Amazon, Adobe, Directi
+   IIIT Allahabad alumnus
+
+3. Divya Karia — Google (Rating: 4.8/5)
+   Delivered multiple e2e projects including Google Play and Google Ads
+   Expertise: backend development, Databases, Java, C++, Python, C#, AWS, Azure, Hadoop
+
+4. Vinod Kumar — Facebook, London (Rating: 4.8/5)
+   Proficient in C#, Java, NodeJS, cloud computing, distributed systems,
+   data structures and advanced algorithms
+
+--------------------------------------------------------------------------------
+SCALER SUPPORT
+--------------------------------------------------------------------------------
+- Practice mock interviews with Industry Ninjas
+- Connect & collaborate with 20K+ Scaler alumni
+- Access job opportunities from 600+ partner employers
+- Polish your resume, LinkedIn Profile & get placement assistance
+
+Alumni working at top companies including:
+Amazon, Microsoft, Walmart, Walmart Labs, Paytm, Flipkart, Mindtree, Gojek,
+MindTickle, CRED, Ajio, Atlassian, Google, Netflix, Facebook, Samsung, Jio,
+Paysafe, OnePlus, Delhivery, Credit Suisse, Dunzo, Goldman Sachs, Qualcomm,
+Media.net, Zeta, Cognizant, Adobe, PhonePe, OLA, NVIDIA, Infosys, HCL,
+Uber, Toppr, Wakefit
+
+--------------------------------------------------------------------------------
+HOW TO ENROL?
+--------------------------------------------------------------------------------
+Payment Options:
+- Multiple easy financing options (No Cost EMIs, Scholarships)
+- 2-week trial period with money-back guarantee if you choose to drop out
+
+Enrollment Process:
+Step 1 — Hassle-Free Registration
+  Create a new account on www.scaler.com or login using your social/InterviewBit account
+
+Step 2 — Quick Evaluation
+  Take a 30-minute MCQ test (aptitude & basic coding questions) to find the ideal batch
+
+Step 3 — Batch Allotment
+  Sign in to the recommended batch with flexible payment options and start upskilling
+
+--------------------------------------------------------------------------------
+YOUR CERTIFICATES
+--------------------------------------------------------------------------------
+1. Certificate of Excellence from Scaler
+   (Upon successful completion of the program)
+
+2. Add-on Certificate from IIT-Roorkee (Optional Paid Add-on)
+   Issued by IIT Roorkee Continuing Education Centre
+   Available post completion of selected modules
+
+--------------------------------------------------------------------------------
+CONTACT
+--------------------------------------------------------------------------------
+Website: www.scaler.com
+Hashtag: #CreateImpact
+
+For more insights, speak with a Career Counsellor for a detailed overview of Scaler.
+================================================================================
+END OF DOCUMENT
+================================================================================

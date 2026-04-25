@@ -5,9 +5,13 @@ import { NudgeContent } from "@/types";
 import { SchemaType } from "@google/generative-ai";
 import { sendWhatsAppText } from "@/lib/twilio";
 
+import { selectBestProgram } from "@/lib/program-selector";
+
 const nudgeSchema = {
   type: SchemaType.OBJECT,
   properties: {
+    suggestedProgram: { type: SchemaType.STRING, description: "The name of the recommended Scaler program" },
+    programReasoning: { type: SchemaType.STRING, description: "1 short sentence explaining why this program fits their background" },
     persona: { type: SchemaType.STRING, description: "Likely persona of the lead" },
     likelyMotivation: { type: SchemaType.STRING, description: "Why they might be looking for Scaler" },
     angles: { 
@@ -30,7 +34,7 @@ const nudgeSchema = {
     openingHook: { type: SchemaType.STRING, description: "A suggested opening hook for the call" },
     disclaimer: { type: SchemaType.STRING, description: "What is inferred vs fact vs missing" }
   },
-  required: ["persona", "likelyMotivation", "angles", "objections", "openingHook", "disclaimer"]
+  required: ["suggestedProgram", "programReasoning", "persona", "likelyMotivation", "angles", "objections", "openingHook", "disclaimer"]
 };
 
 export async function POST(req: Request) {
@@ -41,11 +45,14 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: "Missing profile or evaluator phone number" }, { status: 400 });
     }
 
-    const prompt = buildNudgePrompt(profile);
+    const program = selectBestProgram(profile);
+    const prompt = buildNudgePrompt(profile, program);
     const nudge = await generateStructured<NudgeContent>(flashModel, prompt, nudgeSchema);
 
     // Format for WhatsApp
     const message = `*Pre-Call Prep: ${profile.name}* 🚀\n
+*Suggested Program:* ${nudge.suggestedProgram}
+_Why: ${nudge.programReasoning}_\n
 *Persona:* ${nudge.persona}
 *Motivation:* ${nudge.likelyMotivation}\n
 *Angles to Hit:*

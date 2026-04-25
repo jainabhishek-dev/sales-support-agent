@@ -1,5 +1,7 @@
 import { LeadProfile, ExtractedQuestion } from "@/types";
 
+import { ScalerProgram } from "./scaler-programs";
+
 export function buildParseLeadProfilePrompt(rawText: string): string {
   return `
 You are an expert sales assistant parsing raw CRM data or voice transcripts into a structured lead profile.
@@ -17,12 +19,20 @@ Instructions:
 `;
 }
 
-export function buildNudgePrompt(profile: LeadProfile): string {
+export function buildNudgePrompt(profile: LeadProfile, program: ScalerProgram): string {
   return `
     You are a sales assistant helping a Scaler BDA prepare for a call.
     
     LEAD PROFILE:
     ${JSON.stringify(profile, null, 2)}
+
+    RECOMMENDED PROGRAM FOR THIS LEAD:
+    Name: ${program.name}
+    Tagline: ${program.tagline}
+    Target Audience: ${program.targetAudience}
+    Key Modules: ${program.keyModules.join(", ")}
+    Outcomes: ${program.outcomes.join(", ")}
+    Differentiators: ${program.differentiators.join(", ")}
     
     TASK:
     Generate a short, scannable WhatsApp nudge. 
@@ -31,14 +41,15 @@ export function buildNudgePrompt(profile: LeadProfile): string {
     FORMAT (JSON):
     {
       "persona": "Short 1-sentence persona",
-      "likelyMotivation": "1-sentence motivation",
-      "angles": ["Angle 1", "Angle 2"],
+      "likelyMotivation": "1-sentence motivation tied to their profile",
+      "angles": ["Angle 1 (using specific program differentiator)", "Angle 2 (using specific outcome or module)"],
       "objections": [{"objection": "...", "handle": "..."}],
       "openingHook": "Direct, non-generic opening line",
       "disclaimer": "Fact vs Inference"
     }
     
     Tone: Teammate-like, scannable, direct. No corporate fluff.
+    CRITICAL: The angles MUST specifically reference the Recommended Program details provided above. Do not use generic Scaler angles.
   `;
 }
 
@@ -68,7 +79,7 @@ Instructions:
 `;
 }
 
-export function buildPDFContentPrompt(profile: LeadProfile, questions: ExtractedQuestion[]): string {
+export function buildPDFContentPrompt(profile: LeadProfile, questions: ExtractedQuestion[], program: ScalerProgram): string {
   return `
 You are an expert sales copywriter at Scaler.
 Write the content for a highly personalized, premium 2-3 page post-call PDF for a lead named ${profile.name}.
@@ -80,21 +91,34 @@ Company: ${profile.company}
 Experience: ${profile.yearsOfExperience} years
 Intent: ${profile.intent}
 
+RECOMMENDED PROGRAM:
+Name: ${program.name}
+Duration: ${program.duration}
+Tagline: ${program.tagline}
+Key Modules:
+${program.keyModules.map(m => `- ${m}`).join("\n")}
+Outcomes:
+${program.outcomes.map(o => `- ${o}`).join("\n")}
+Certifications:
+${program.certifications.map(c => `- ${c}`).join("\n")}
+Differentiators:
+${program.differentiators.map(d => `- ${d}`).join("\n")}
+
 QUESTIONS RAISED ON CALL:
 ${questions.map((q, i) => `${i + 1}. ${q.question}\n   Context: ${q.context}`).join("\n\n")}
 
 Instructions:
 - Address each of the lead's open questions specifically in the 'sections' array.
-- For each answer, provide concrete 'evidence' from the SCALER_CONTEXT. 
+- For each answer, provide concrete 'evidence' from the RECOMMENDED PROGRAM context above. 
 - Frame Scaler's strengths through the lens of ${profile.name}'s specific goals and background. Do not use generic marketing speak.
 - Maintain a tone suitable for a ${profile.role} with ${profile.yearsOfExperience} years of experience.
-- DO NOT fabricate specific statistics, salary numbers, or placement guarantees not present in the SCALER_CONTEXT. If you don't have verified data, say "Scaler can share specifics on request".
+- DO NOT fabricate specific statistics, modules, or placement guarantees not present in the RECOMMENDED PROGRAM. If you don't have verified data in the context, say "Scaler can share specifics on request".
 
 Structure:
 - Headline: A personalized hook.
 - Intro: A brief warm intro acknowledging their specific career situation.
-- Sections: 1 section per question answered, with 'evidence'.
+- Sections: 1 section per question answered, with 'evidence' from the program context.
 - Closing CTA: A nudge to take the entrance test.
-- Program Recommendation: Briefly name the specific Scaler program they should aim for based on their profile.
+- Program Recommendation: Recommend the best Scaler program. If a specific program was discussed in the QUESTIONS RAISED ON CALL, recommend that one. Otherwise, recommend ${program.name} based on their profile.
 `;
 }

@@ -1,0 +1,268 @@
+================================================================================
+SCALER - DEVOPS, CLOUD & AI PLATFORM ENGINEERING PROGRAM
+Modern Infrastructure. Made for the AI Age.
+================================================================================
+
+--------------------------------------------------------------------------------
+ABOUT SCALER
+--------------------------------------------------------------------------------
+Scaler (by InterviewBit) is an outcome-focused leading ed-tech platform for
+tech enthusiasts. It is a transformative tech school devoted to creating a
+growth ecosystem to assist software professionals in unlocking talent &
+opportunities at every stage of their career.
+
+Scaler has rebuilt its curriculum to make learners AI-native — integrating
+real AI tools, workflows, and problem-solving into the learning experience,
+so learners don't just keep up with change, they stay ahead of it.
+
+--------------------------------------------------------------------------------
+COURSE OVERVIEW - Program Highlights
+--------------------------------------------------------------------------------
+  - Duration         : 14 - 18 Months (One-of-a-kind)
+  - Curriculum       : Industry-vetted, structured
+  - Classes          : Live classroom learning
+  - Mentorship       : 1:1 with industry experts
+  - Doubt-solving    : By teaching assistants with case studies
+  - Placement        : Full placement assistance
+  - Partner Network  : 900+ partner companies
+
+--------------------------------------------------------------------------------
+SCALER ADVANTAGE - Adding the Scaler Touch to DevOps
+--------------------------------------------------------------------------------
+Every feature is designed with one goal: your success.
+
+1. 24x7 AI Companion
+   Always-on learning buddy that uses contextual help & dialogue-based
+   solutioning, blending AI speed with mentor expertise.
+
+2. Unlimited AI Mock Interviews
+   Real role-based simulations with unlimited practice anytime, structured
+   to match actual MAANG interview journeys.
+
+3. AI-Powered Resume Builder
+   ATS-ready resumes powered by 100K+ real profiles. Scaler learners have
+   historically seen 5x more interview calls.
+
+4. Taught by Industry Leaders
+   Learn from top on-the-job professionals, not career teachers. Practical
+   insights rated highly by 50K+ learners.
+
+5. Live Classes with Recording
+   Interactive live sessions with instant recordings & notes for revision.
+
+6. Expert Mentor Guidance
+   1:1 personalized advice from top-firm mentors mapped to your profile
+   and career goals.
+
+7. Monthly Contests
+   Module-specific tests tied to job readiness, with unlimited attempts
+   for improvement.
+
+8. Skill Certifications
+   Rigorous module-level certifications that prove job-ready skills
+   recruiters trust.
+
+9. Coding Streak
+   Daily practice streaks with rewards & streak freeze to help you stay
+   consistent.
+
+10. Extend into Master's Degree
+    Scaler credits convert into a globally recognized Master's via Woolf.
+
+--------------------------------------------------------------------------------
+GET CERTIFIED. GET REIMBURSED.
+--------------------------------------------------------------------------------
+Clear the CKA (Certified Kubernetes Administrator) or AWS DevOps
+Professional certification, and Scaler will reimburse your exam fee.
+
+  - Value reimbursed: Up to $745
+  - Certifications covered: AWS Certified DevOps Engineer Professional + CKA
+
+Note: Certification fees for AWS and CKA are reimbursable upon successful
+completion. Any additional certification charges must be paid separately.
+
+--------------------------------------------------------------------------------
+AI-FIRST CURRICULUM
+--------------------------------------------------------------------------------
+The AI era is rewriting tech roles. Scaler has rebuilt the program for it.
+
+Key Statistics:
+  - 1.3M  New jobs already created by AI (Source: World Economic Forum)
+  - 66%   Leaders would not hire professionals lacking AI expertise (Source: Microsoft)
+  - 71%   Employers prefer professionals with AI skills (Source: Microsoft)
+  - 80%   Tech professionals expected to gain AI skills by 2027 (Source: Gartner)
+
+--------------------------------------------------------------------------------
+COURSE OUTLINE (CORE MODULES)
+--------------------------------------------------------------------------------
+Module Name                                        Duration (Weeks)
+-------------------------------------------------  ----------------
+Linux - 1                                          3
+Linux - 2                                          4
+DevOps 1                                           12
+DevOps 2                                           8
+AWS 1                                              6
+AWS 2                                              12
+No-Code Automation for Ops Workflows               2
+Engineering in the Age of AI                       1
+Python as the AI Control Plane                     2
+Observability for AI and Operations                2
+Anomaly Detection Systems                          2
+Predictive Operations and Failure Prevention       1
+Security Foundations for AI and Automation         2
+AI Observability and Model Health                  2
+ML-Driven Optimization                             2
+Generative AI for Engineers                        2
+Retrieval-Augmented Generation (RAG)               2
+Agentic AI Systems                                 2
+MLOps on Kubernetes                                2
+AI Platform Security and FinOps                    2
+AWS AI/ML Foundations                              1
+Amazon SageMaker Deep Dive                         2
+Generative AI on AWS                               1
+AWS MLOps and Architecture                         1
+AI Threat Models                                   1
+Governance and Responsible AI                      1
+LLM Gateway and Proxy Patterns                     1
+Industry-Grade Capstone Project                    4
+
+--------------------------------------------------------------------------------
+COURSE OUTLINE (ELECTIVE MODULES)
+--------------------------------------------------------------------------------
+Module Name                                        Duration (Weeks)
+-------------------------------------------------  ----------------
+Dataset Operations (DataOps) 1                     2
+
+--------------------------------------------------------------------------------
+INDUSTRY CERTIFICATIONS - Prepare Yourself for Larger Goals
+--------------------------------------------------------------------------------
+The course prepares learners for industry-reputed certifications, improving
+resume shortlisting rates by up to 50%.
+
+Certifications covered:
+  - AWS Certified DevOps Engineer Professional
+  - Certified Kubernetes Administrator (CKA)
+  - Mirantis Training (Docker/Kubernetes)
+  - Terraform Certified Associate (HCTA0-002)
+  - CISSP (Certified Information Systems Security Professional)
+
+Note: AWS and CKA exam fees are reimbursable. All other certification
+charges must be paid separately by candidates.
+
+--------------------------------------------------------------------------------
+MEET YOUR INSTRUCTORS
+--------------------------------------------------------------------------------
+1. Anshuman Singh   | Co-Founder, Scaler | Ex-Meta (Facebook)
+   - Two-time ACM ICPC world finalist
+   - Founding team member of Facebook Messenger
+
+2. Naman Bhalla     | Ex-Google | Ex-Cult.fit
+   - Top-rated instructor; building Scaler Topics
+
+3. Shivank Agarwal  | Ex-Microsoft | Ex-Oracle
+
+4. Vilas Varghese   | Ex-Patni Computer Systems / IGATE
+
+5. Govind Kumar     | Cloud Architect at Axcess.io
+
+6. Rajat Bansal     | Ex-Media.net
+
+--------------------------------------------------------------------------------
+KNOW YOUR MENTORS (1:1 Mentorship)
+--------------------------------------------------------------------------------
+1. Ashish Sinha     | DevOps Engineer, Airbnb
+   - Seasoned DevOps expert; ex-Oracle India Pvt. Ltd.
+   - Led DevOps, cloud, and automation at scale for SaaS, PaaS, IaaS
+
+2. Mayur Madnani    | Staff Engineer, JioHotstar
+   - Previously Staff Data Engineer at Intuit
+   - Ex-Senior Data Engineer at Intuit, ex-Data Engineer at Walmart Global Tech
+   - Works at the intersection of AI, data, and backend engineering
+
+3. Siddharth Shashikar | Former Staff SRE, One2N Consulting
+   - DevOps Practitioner and SRE Consultant, New Delhi
+   - Specialises in cloud-native infrastructure, Kubernetes, CI/CD, DevSecOps
+   - Ex-IoT Developer at TCS; B.Tech from NIIT University
+
+4. Meenu Kumari     | Cybersecurity Engineer, Amazon
+   - 7+ years of cybersecurity experience at Amazon, Bengaluru
+   - Specialises in Security Assurance across cloud-native environments
+   - Master's from Georgia Institute of Technology
+
+5. Vijay Hegde      | DevOps Engineer
+   - Experienced in DevOps methodologies and automation tools
+
+6. Shivansh Bajpai  | DevOps Engineer-3
+   - Led full-scale data transformation at Azure Databricks (Python, SQL)
+
+7. Rakesh Budde     | SDE 1 - DevOps
+   - Migration of Docker Compose services to Kubernetes
+
+8. Arnab Seal       | Sr. DevOps Engineer
+   - Works with AWS, Terraform, Python, GitHub, and more
+
+--------------------------------------------------------------------------------
+LEARNING PEDAGOGY
+--------------------------------------------------------------------------------
+ONBOARDING SESSION:
+  - Course Introduction  : Customised cohort, peer networking
+  - Choose your Mentor   : Select a mentor aligned to career goals
+  - Learning Coordinator : Dedicated point of contact throughout
+
+LIVE LEARNING:
+  - Learn in a LIVE Classroom: Real-time engagement with instructors & peers
+  - Assignments & Homeworks  : Apply techniques learned in class
+  - 1:1 Mentor Guidance      : Personalised mentorship for every doubt
+  - AI-Assisted Problem Solving : Recommendations across a spectrum of challenges
+  - AI Mock Interviews         : Practice for Platform Engineer, SRE, and
+                                  Cloud Architect roles with live avatar interviews
+  - 1:1 Teaching Assistance    : Live chat & video call for individual queries
+
+HANDS-ON PRACTICE:
+  - 50+ Real-Life Case Studies via Code Sandbox
+  - Datasets from top tech companies
+  - Practical tasks include: creating Docker images, configuring Kubernetes,
+    setting up security policies, running DevOps labs
+
+--------------------------------------------------------------------------------
+SCALER NETWORK & SUPPORT
+--------------------------------------------------------------------------------
+  - 900+ Partner Companies for exclusive job opportunities
+  - Resume & LinkedIn profile optimisation for placement readiness
+  - Mock interviews with mentors
+  - Peer collaboration and networking
+
+Alumni placed at top companies including:
+  OnePlus, Microsoft, Walmart, Amazon, Credit Suisse, Delhivery,
+  Dunzo, Paytm, Flipkart, Walmart Labs, Qualcomm, Goldman Sachs,
+  Media.net, Gojek, MindTickle, Mindtree, Cognizant, Zeta,
+  Adobe, Ajio, Atlassian, CRED, OLA, PhonePe,
+  NVIDIA, Netflix, Facebook, Google, HCL, Infosys,
+  Uber, Jio, Paysafe, Samsung, Wakefit, Toppr
+
+--------------------------------------------------------------------------------
+LEARNER TESTIMONIALS
+--------------------------------------------------------------------------------
+1. Ishan Sarma, SDE-I, Amazon:
+   "Perhaps the biggest challenge in my journey was to find the right place
+   that would give structure to my learning. Scaler's course really helped
+   in a way my college couldn't."
+
+2. Bharath Veldi, DevOps Engineer, Amazon:
+   "Scaler's curriculum included all sorts of industry-relevant content, which
+   was indeed what I needed at the time. I learned how to maximise my results."
+
+3. Abirami S, SDE-II, Zetwerk:
+   "I truly cherish my journey to Zetwerk, and I could not have accomplished
+   it without Scaler's help. The curriculum is industry standard, which helps
+   one prepare for real-life challenges."
+
+--------------------------------------------------------------------------------
+CONTACT & ENROLMENT
+--------------------------------------------------------------------------------
+Website : https://www.scaler.com/devops-course
+Action  : Request a Callback / Scan QR Code on brochure
+
+================================================================================
+END OF BROCHURE
+================================================================================

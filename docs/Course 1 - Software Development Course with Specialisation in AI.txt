@@ -1,0 +1,320 @@
+================================================================================
+SCALER ACADEMY - COURSE BROCHURE
+Software Development Course with Specialisation in AI
+================================================================================
+
+--------------------------------------------------------------------------------
+ABOUT SCALER
+--------------------------------------------------------------------------------
+Scaler (by InterviewBit) is an outcome-focused leading ed-tech platform for
+tech enthusiasts. It is a transformative tech school devoted to creating a growth
+ecosystem to assist software professionals in unlocking talent & opportunities
+at every stage of their career.
+
+Scaler empowers learners with cutting-edge AI tools and frameworks, ensuring
+learners are both industry-ready and future-ready. The curriculum integrates
+AI-driven approaches to problem-solving.
+
+--------------------------------------------------------------------------------
+TECH LANDSCAPE - The Industry Needs SDEs with AI Skills
+--------------------------------------------------------------------------------
+AI is revolutionising the tech industry, making it vital for SDEs to embrace
+this transformative technology.
+
+Key Statistics:
+  - 97 Million New Jobs will be created by AI by 2025 (Source: World Economic Forum)
+  - 66% of Leaders say they would not hire professionals who lack AI expertise (Source: Microsoft)
+  - 71% of Employers prefer professionals with AI skills over experienced ones without (Source: Microsoft)
+  - 80% Professionals working in tech will be expected to gain AI skills by 2027 (Source: Gartner)
+
+--------------------------------------------------------------------------------
+BUILD AI SKILLS - Choose Scaler to Learn AI
+--------------------------------------------------------------------------------
+Scaler Academy bridges the gap between software development and AI expertise.
+With a structured curriculum, live classes by industry experts, and hands-on
+projects, you'll master AI tools and techniques alongside core development skills.
+
+As a software developer, integrating AI into your skillset empowers you to:
+  - Automate complex tasks and improve efficiency
+  - Develop intelligent systems that learn and adapt
+  - Create innovative UX with AI-driven personalisation
+
+--------------------------------------------------------------------------------
+ACADEMY OVERVIEW
+--------------------------------------------------------------------------------
+Old strategies won't open new doors. Scaler has integrated AI-driven modules
+to bridge the gap and equip learners with future-ready skills.
+
+What to expect:
+  - Structured, flexible, industry-vetted curriculum
+  - Live classes by experts who have been there, done that
+  - Hands-on experience with live projects
+  - Placement support & career guidance
+  - Regular 1:1 mentorship
+  - 9 - 11 months of dedicated learning
+  - AI-powered mock interviews & teaching assistance
+
+--------------------------------------------------------------------------------
+SCALER ADVANTAGE - Fastest Route to Your Dream Career
+--------------------------------------------------------------------------------
+  - Track your progress through live report cards
+  - 600+ partner employers & placement assistance
+  - Thorough learning through industry projects
+  - Flexible learning hours
+  - Immediate evaluation to monitor your progress
+  - Aspirational community of 20K+ Scaler learners & alumni
+  - Hyper-personalised experience
+  - Resolve doubts with expert teaching assistants
+
+--------------------------------------------------------------------------------
+WHO IS THIS FOR? - Eligibility & Fit Check
+--------------------------------------------------------------------------------
+Eligibility (must have background in one of the following):
+  - Engineering / IT / Maths Background
+  - Developing role (Service-based company)
+  - Engineering role (Product-based company)
+
+Entrance Test: 16 MCQs to determine the ideal batch.
+
+Batch Options:
+  1. BEGINNER BATCH   - 10.5 Months | For learners with little or no coding experience
+  2. INTERMEDIATE BATCH - 12 Months | For learners with basic coding experience
+  3. ADVANCED BATCH    - 10 Months  | For learners with notable coding experience
+
+--------------------------------------------------------------------------------
+CURRICULUM OUTLINE - The Blueprint to Success
+--------------------------------------------------------------------------------
+
+[A] COURSE OUTLINE FOR BEGINNERS (10.5 Months)
+------------------------------------------------
+Core Outline:
+  - Programming Language Fundamentals        | Duration: 1.5 Months
+  - Data Structures and Algorithms           | Duration: 4.5 Months
+  - SQL                                      | Duration: 0.5 Month
+
+Specialisations* (choose 1):
+  - Frontend Engineering                     | Duration: 3 Months
+  - Backend Engineering                      | Duration: 3 Months
+  - System Design Essentials                 | Duration: 1 Month
+
+Electives** (Optional - choose any):
+  - High-Level Design                        | Duration: 1.5 Months
+  - Data Engineering                         | Duration: 2 Months
+  - DSA for Competitive Programming          | Duration: 1 Month
+  - Product Management for Engineers         | Duration: 1 Month
+  - Gen AI for Software Engineers            | Duration: 2 Months
+
+[B] COURSE OUTLINE FOR INTERMEDIATE (12 Months)
+-------------------------------------------------
+Core Outline:
+  - Introduction to Problem Solving          | Duration: 2 Months
+  - Data Structures and Algorithms           | Duration: 4 Months
+  - Advance Language Concepts*              | Duration: 1 Week
+  - Computer Science Fundamentals            | Duration: 1 Month
+  - Low-Level Design                         | Duration: 1.5 Months
+  - High-Level Design                        | Duration: 1.5 Months
+
+Specialisations** (choose 1):
+  - Fullstack Engineering (Backend + Frontend)| Duration: 2 Months
+  - Data Engineering                         | Duration: 2 Months
+
+Electives*** (Optional - choose any):
+  - DSA for Competitive Programming          | Duration: 1 Month
+  - Product Management for Engineers         | Duration: 1 Month
+  - Gen AI for Software Engineers            | Duration: 2 Months
+
+[C] COURSE OUTLINE FOR ADVANCED (10 Months)
+---------------------------------------------
+Core Outline:
+  - Data Structures and Algorithms           | Duration: 4 Months
+  - Advance Language Concepts*              | Duration: 1 Week
+  - Computer Science Fundamentals            | Duration: 1 Month
+  - Low-Level Design                         | Duration: 1.5 Months
+  - High-Level Design                        | Duration: 1.5 Months
+
+Specialisations** (choose 1):
+  - Fullstack Engineering (Backend + Frontend)| Duration: 2 Months
+  - Data Engineering                         | Duration: 2 Months
+
+Electives*** (Optional - choose any):
+  - DSA for Competitive Programming          | Duration: 1 Month
+  - Product Management for Engineers         | Duration: 1 Month
+  - Gen AI for Software Engineers            | Duration: 2 Months
+
+Notes:
+  *  Only 1 Specialisation is allowed per learner. Recorded lectures for the
+     other can be availed via Student Dashboard. At Least 1 Specialisation is
+     mandatory for successful course completion.
+  ** A learner can do as many electives as they want, but only after completion
+     of Core Curriculum.
+
+--------------------------------------------------------------------------------
+LEVEL UP WITH IIT-ROORKEE (Add-on Program)
+--------------------------------------------------------------------------------
+Advanced AI Engineering Program from India's Oldest Technical Institute.
+
+IIT-Roorkee Rankings:
+  - Rank 8  on National Institutional Ranking Framework, Overall - 2023
+  - Rank 6  on National Institutional Ranking Framework, Engineering - 2024
+
+Alumni working at: Amazon, Microsoft, GE, Goldman Sachs, Adobe
+
+Program Highlights:
+  - Domain-specific AI use cases for practical learning
+  - Certificate from one of the top institutes in India
+  - Curriculum designed by expert IIT faculty
+  - Learn by building AI & ML applications for different problem statements
+
+IIT-Roorkee Campus Immersion (2 Days on Campus):
+  - Access to research labs with cutting-edge tech
+  - IIT-Roorkee resources & facilities
+  - Food & accommodation included
+  - Fireside chat with industry experts
+
+IIT-Roorkee Instructor:
+  Name    : Pravendra Singh (Assistant Professor, IIT-Roorkee)
+  Education: Ph.D. in CSE from IIT Kanpur
+  Research : 19 articles published in renowned journals
+  Awards   : 10+ awards & grants from IITs, Google, Microsoft, etc.
+
+--------------------------------------------------------------------------------
+SCALER SUCCESS STORIES
+--------------------------------------------------------------------------------
+Key Metrics:
+  - 2000+  Success stories of Scaler learners
+  - 21.6 L Average CTC for Scaler learners
+  - 31.8%  Promotion rate (one year post Scaler)
+  - 126%   Average hike for Scaler learners
+  - 1.7 Cr Highest package offered to a Scaler learner
+
+Alumni Testimonials:
+  1. Anuj Maurya     | Wipro → Amazon      | Software Developer
+  2. Priyanka Kumari | Infosys → Samsung   | Lead Engineer
+  3. Akash Srivastava| TCS → Adobe         | Software Engineer 2
+  4. Sudhanshu Gera  | Wipro → Walmart     | SDE 3
+  5. Chandrakanth Nethi| Deloitte → Swiggy | SDE
+  6. Yash Vardhan Raizada| L&T → Microsoft | Software Engineer
+
+--------------------------------------------------------------------------------
+BATCH PROFILE
+--------------------------------------------------------------------------------
+Learners' Work Experience:
+  - 0-2 Years  : 40.3%
+  - 2-5 Years  : 27.9%
+  - 5-10 Years : 22.4%
+  - 10+ Years  :  9.4%
+
+Learners' Industry Background:
+  - Software Developers/Engineers : 66.4%
+  - Non IT/Business Roles         : 19.1%
+  - Other IT/Tech Roles           : 14.5%
+
+Learners' Academic Background:
+  - IITs/NITs/IIITs/BITS :  10.1%
+  - Others               :  89.9%
+
+Average Salary Post Scaler (by experience):
+  - 0-2 Years   : INR 16.6 LPA
+  - 2-6 Years   : INR 20.1 LPA
+  - 6-10 Years  : INR 31.9 LPA
+  - 10+ Years   : INR 57.2 LPA
+
+--------------------------------------------------------------------------------
+MEET OUR INSTRUCTORS
+--------------------------------------------------------------------------------
+1. Anshuman Singh   | Co-Founder, Scaler | Ex-Facebook
+   - Two-time ACM ICPC world finalist
+   - Founding team member of Facebook Messenger
+   - Worked directly with Mark Zuckerberg on product development
+
+2. Satya Sai        | Ex-SDE, Amazon
+   - Mentored 500+ students on DSA
+   - Top-rated instructor at Scaler
+   - Won the Turning Cup in 2019
+
+3. Naman Bhalla     | Ex-Google
+   - Global rank 135 at Google's Kickstart Round D
+   - 37th rank at ACM ICPC Kanpur Regionals 2019-20
+   - Currently heading Scaler Topics
+
+4. Kshitij Mishra   | Ex-Software Engineer, Snapdeal
+   - Ex-Lead Software Engineer at InterviewBit
+   - B.Tech in CS&E from IIIT Hyderabad
+
+5. Utkarsh Gupta    | Ex-Google, Germany
+   - Master at Codeforces; 6-star coder at CodeChef
+   - AIR 1 in Google Hash Code 2019
+   - Team Manager and Instructor at Scaler/InterviewBit
+
+6. Arnav Gupta      | Ex-Engineering Head, Zomato
+   - Co-Founder of Coding Blocks
+   - 10+ years of Android experience
+   - Dedicated programming contributor to Android OS
+
+--------------------------------------------------------------------------------
+MEET OUR MENTORS (1:1 Mentorship)
+--------------------------------------------------------------------------------
+1. Goutham Harsha   | Google Switzerland          | Rating: 4.9/5
+   - Tech Lead at Google Switzerland
+   - Ex-Apple (Senior SWE), Ex-Microsoft (SDE-II)
+   - Worked on Azure Compute, Apple Music, Google Borg
+
+2. Udit Agarwal     | Microsoft                   | Rating: 4.9/5
+   - Backend expert; worked at Microsoft, Amazon, Adobe, Directi
+   - IIIT Allahabad alumnus
+
+3. Divya Karia      | Google                      | Rating: 4.8/5
+   - Delivered e2e projects including Google Play and Google Ads
+   - Expert in backend development, Java, C++, Python, AWS, Azure, Hadoop
+
+4. Vinod Kumar      | Facebook London             | Rating: 4.8/5
+   - Backend Software Engineer II at Facebook, London
+   - Ex-Microsoft, Ex-Amazon
+   - Proficient in C#, Java, NodeJS, cloud computing, distributed systems
+
+--------------------------------------------------------------------------------
+SCALER SUPPORT - Career Assistance
+--------------------------------------------------------------------------------
+  - Access job opportunities from 600+ partner employers
+  - Polish resume & LinkedIn profile + placement assistance
+  - Connect & collaborate with 20K+ Scaler alumni
+  - Practice mock interviews with Industry Ninjas
+
+Top Companies Where Alumni Work:
+  Amazon, Microsoft, Walmart, Walmart Labs, Paytm, Flipkart, Mindtree,
+  Gojek, MindTickle, CRED, Ajio, Atlassian, Google, Netflix, Facebook,
+  Samsung, Jio, Paysafe, OnePlus, Delhivery, Credit Suisse, Dunzo,
+  Goldman Sachs, Qualcomm, Media.net, Zeta, Cognizant, Adobe, PhonePe,
+  OLA, NVIDIA, Infosys, HCL, Uber, Toppr, Wakefit
+
+--------------------------------------------------------------------------------
+HOW TO ENROL?
+--------------------------------------------------------------------------------
+Enrollment Process:
+  Step 1 - Hassle-Free Registration : Create account on www.scaler.com or
+                                       login via social/InterviewBit account
+  Step 2 - Quick Evaluation         : Take a 30-min MCQ test (aptitude &
+                                       basic coding) to find your ideal batch
+  Step 3 - Batch Allotment          : Sign in to recommended batch with
+                                       flexible payment options & start upskilling
+
+Payment Options:
+  - No Cost EMIs
+  - Scholarships
+  - 2-week trial period with money-back guarantee
+
+--------------------------------------------------------------------------------
+YOUR CERTIFICATES
+--------------------------------------------------------------------------------
+  1. Certificate of Excellence from Scaler (on course completion)
+  2. Add-on Certificate from IIT-Roorkee CEC (for IIT-Roorkee program enrollees)
+
+--------------------------------------------------------------------------------
+CONTACT
+--------------------------------------------------------------------------------
+Website : www.scaler.com
+Action  : Schedule a Call with a Career Counsellor for a detailed overview
+
+================================================================================
+END OF BROCHURE
+================================================================================

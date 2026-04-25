@@ -14,6 +14,8 @@ export interface ExtractedQuestion {
 }
 
 export interface NudgeContent {
+  suggestedProgram: string;
+  programReasoning: string;
   persona: string;
   likelyMotivation: string;
   angles: string[];
@@ -30,6 +32,7 @@ export interface PDFSection {
 
 export interface PDFContent {
   leadName: string;
+  leadTheme: "executive" | "career-switcher" | "fresher";
   headline: string;
   intro: string;
   sections: PDFSection[];

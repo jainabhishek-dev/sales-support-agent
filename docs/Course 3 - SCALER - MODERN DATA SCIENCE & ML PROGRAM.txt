@@ -1,0 +1,444 @@
+================================================================================
+SCALER - MODERN DATA SCIENCE & ML PROGRAM
+Modern Data Science Built for the Age of AI
+================================================================================
+
+--------------------------------------------------------------------------------
+AI IS TRANSFORMING THE TECH WORLD
+--------------------------------------------------------------------------------
+Artificial Intelligence is the cornerstone of the data-driven revolution,
+redefining the decision-making processes of organisations. Professionals with
+a strong foundation in DSML are in greater demand than ever.
+
+Key Statistics:
+  - $15.7 Trillion   AI's contribution to the global economy by 2030 (Source: PwC)
+  - 38% Annual Growth Expected from the AI market between 2023 & 2030 (Source: Forbes)
+  - 66% of Leaders   Would not hire professionals who lack AI expertise (Source: Microsoft)
+  - 71% of Employers Prefer hiring AI-skilled professionals over experienced ones (Source: Microsoft)
+  - 1.3M New Jobs    Already created by AI (Source: World Economic Forum)
+  - 80% Professionals Working in tech will be expected to gain AI skills by 2027 (Source: Gartner)
+
+--------------------------------------------------------------------------------
+WHY LEARN AI WITH SCALER?
+--------------------------------------------------------------------------------
+Scaler offers a comprehensive, industry-vetted curriculum to make you proficient
+in AI-powered data analysis and problem-solving. From mastering tools like Tableau
+to developing portfolio projects, you'll gain expertise that prepares you for
+leadership roles.
+
+With AI, you'll become a DSML professional with skills to:
+  - Build predictive models that transform raw data into insights
+  - Design intelligent systems to optimise business operations
+  - Innovate solutions for complex problems using ML techniques
+
+--------------------------------------------------------------------------------
+COURSE SUMMARY - Program at a Glance
+--------------------------------------------------------------------------------
+  Program Name     : Modern Data Science & ML
+  Mode of Learning : 100% Live Learning
+  Certifications   : NSDC Certified
+  Eligibility      : Freshers, tech and non-tech professionals
+  Instructors      : Experts from top companies
+  Program Duration : 20 Months
+  Common Outcomes  : Data Analyst, Data Scientist & Machine Learning Engineer
+
+The Learning Experience:
+  - 1:1 Industry mentorship
+  - Practical application-based learning
+  - AI-Powered Teaching Assistance
+  - Placement assistance
+  - Network of 55k+ learners
+  - AI-Powered Mock Interviews
+
+--------------------------------------------------------------------------------
+AI-FIRST CURRICULUM
+--------------------------------------------------------------------------------
+The AI era is rewriting tech roles. Scaler has rebuilt the program for it.
+
+Every job description in today's world is being rewritten. The curriculum is
+reimagined from the ground up: fundamentals that form the backbone of any
+production, combined with the AI-first approach the industry is already hiring for.
+
+--------------------------------------------------------------------------------
+CURRICULUM OUTLINE - BEGINNER TRACK (16-20 Months)
+--------------------------------------------------------------------------------
+(For non-coders / those with no coding experience)
+
+CORE MODULES:
+  - Excel & Dashboarding with AI Storytelling                  | 1 Month
+  - Python Foundations + AI Coding Assistants                  | 1 Month
+  - Data to Decisions: Product Analytics with AI               | 1 Month
+  - Generative AI for Data Analytics & Automation              | 1 Month
+  - Interview Readiness                                        | 1 Month
+  - Advanced Analytics with Python, Pandas & AI Workflows      | 1 Month
+  - Statistics, Experimentation & AI for Data-Driven Decisions | 1 Month
+  - Advanced Product Analytics                                 | 1 Month
+  - Mathematical Foundations for AI                           | 1 Month
+  - Advanced SQL & AI for Data Professionals                   | 1 Month
+  - Machine Learning with AI Workflows                         | 1 Month
+  - Supervised Machine Learning with AI                        | 1 Month
+  - Un-supervised Machine Learning with AI                     | 1 Month
+  - Time Series and Recommender Systems with AI Workflows      | 1 Month
+  - MLOps & AI Deployment                                      | 1 Month
+  - Deep Learning & Neural Networks                            | 1 Month
+  - AI for Computer Vision                                     | 1 Month
+  - AI for Natural Language Processing                         | 1 Month
+  - AI Engineering and Agentic AI                              | 1.5 Months
+
+ELECTIVE MODULES (Optional):
+  - Cloud & Data Analytics on AWS                              | 1 Month
+  - AI For Everyone                                            | 1 Month
+
+--------------------------------------------------------------------------------
+CURRICULUM OUTLINE - INTERMEDIATE TRACK (14-16 Months)
+--------------------------------------------------------------------------------
+(For learners with 0-2 years of coding experience)
+
+CORE MODULES:
+  - Advanced Analytics with Python, Pandas & AI Workflows      | 1 Month
+  - Statistics, Experimentation & AI for Data-Driven Decisions | 1 Month
+  - Advanced Product Analytics                                 | 1 Month
+  - Mathematical Foundations for AI                           | 1 Month
+  - Machine Learning with AI Workflows                         | 1 Month
+  - Supervised Machine Learning with AI                        | 1 Month
+  - Un-supervised Machine Learning with AI                     | 1 Month
+  - Time Series and Recommender Systems with AI Workflows      | 1 Month
+  - MLOps & AI Deployment                                      | 1 Month
+  - Deep Learning & Neural Networks                            | 1 Month
+  - AI for Computer Vision                                     | 1 Month
+  - AI for Natural Language Processing                         | 1 Month
+  - AI Engineering and Agentic AI                              | 1.5 Months
+
+ELECTIVE MODULES (Optional):
+  - Cloud & Data Analytics on AWS                              | 1 Month
+  - AI For Everyone                                            | 1 Month
+
+--------------------------------------------------------------------------------
+EVOLVE WITH THE INDUSTRY - Special Modules
+--------------------------------------------------------------------------------
+1. GENERATIVE AI
+   Duration  : 24 lectures, 8 weeks
+   Objective : To adapt Gen AI to various business contexts
+   Projects  :
+     - Build a DuoLingo-like language teacher
+     - Create a chatbot using RAG
+     - Develop innovations using LLMs
+
+2. ML SYSTEM DESIGN
+   Duration : 24 lectures, 8 weeks
+   Objective: Apply system design principles to real-world ML problems
+   Topics   :
+     - System Design Principles
+     - Machine Learning Pipelines
+     - Distributed Training
+     - Model Serving & Inference
+     - High Availability & Fault Tolerance
+     - Security & Privacy
+     - Productionization
+
+--------------------------------------------------------------------------------
+APPLY SKILLS TO BUSINESS PROBLEMS - Domain Analytics
+--------------------------------------------------------------------------------
+Duration    : 8 weeks
+Eligibility : High Performance
+Certification: Domain-Specific
+
+Trending Domains:
+  - Fintech       : Customer Segmentation & Regulatory Compliance
+  - E-Commerce    : Supply Chain & Data Management
+  - Social Media Marketing: Marketing Strategy Prediction & Optimisation
+  - Healthcare    : Regulatory Compliance & Healthcare Data Management
+
+Note: Domain options may change based on industry trends.
+
+--------------------------------------------------------------------------------
+PORTFOLIO PROJECTS (Sample Options)
+--------------------------------------------------------------------------------
+Project 1  : Swiggy       - Order Intelligence & Business Metrics System
+             Skills: PostgreSQL, MySQL, AI SQL Assistants, DBeaver, Python
+
+Project 2  : Netflix India - Content Performance & Subscriber Insights Dashboard
+             Skills: Microsoft Excel, Power Query, Tableau/Google Looker Studio, AI Assistants
+
+Project 3  : Urban Company - Operations Analytics
+             Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
+
+Project 4  : PhonePe      - User Funnel, Retention & Feature Adoption Analysis
+             Skills: Python, Pandas, Seaborn, Matplotlib, SQL, AI Analytics Assistants
+
+Project 5  : Zepto/Blinkit - AI-Powered Business Insights Engine
+             Skills: Python, Pandas, OpenAI API/Gemini API, Prompt Engineering, Flask
+
+Project 6  : Meesho       - A/B Experimentation Platform (Checkout Conversion)
+             Skills: Python, SciPy, Statsmodels, Pandas, Seaborn, PyMC (Bayesian)
+
+Project 7  : CRED         - Member Spend Intelligence & Credit Health Analytics
+             Skills: Python, Pandas, NumPy, Scikit-learn, Matplotlib, SQL
+
+Project 8  : Myntra       - Time Sales Intelligence Pipeline on AWS
+             Skills: AWS S3, AWS Glue, Amazon Athena, AWS QuickSight/Tableau, Python
+
+Project 9  : Bajaj Finserv/HDFC - Credit Risk & Loan Default Prediction
+             Skills: Python, Scikit-learn, XGBoost, LightGBM, SHAP, Flask
+
+Project 10 : Nykaa/Mamaearth - D2C Customer Intelligence & Segmentation Engine
+             Skills: Python, Scikit-learn, Pandas, t-SNE, PCA, AI APIs
+
+Project 11 : Blinkit/BigBasket - Demand Forecasting & Recommendation System
+             Skills: Python, Facebook Prophet, Scikit-learn, XGBoost
+
+Project 12 : Razorpay/CRED - Customer Support Intelligence & Auto-Escalation
+             Skills: Python, Hugging Face Transformers, BERT/DistilBERT, spaCy, OpenAI API
+
+--------------------------------------------------------------------------------
+BUSINESS CASE STUDIES (Embedded in Modules)
+--------------------------------------------------------------------------------
+  Module: SQL                  - Analyse 100,000 orders; Skills: EDA, time series, complex querying
+  Module: Data Analysis & Viz  - Analyse customer purchase patterns; Skills: CLT, bootstrapping
+  Module: Python Libraries     - Gain insights into viewer factors; Skills: exploration, visualisation
+  Module: Machine Learning     - Gain insights into viewer factors; Skills: data preprocessing
+  Module: Neural Networks      - Make delivery time estimates; Skills: exploration, visualisation
+  Module: Generative AI        - Create product recommendations; Skills: prompt engineering, LLM fine-tuning
+
+--------------------------------------------------------------------------------
+LEVEL UP WITH IIT-ROORKEE (Optional Paid Add-on)
+--------------------------------------------------------------------------------
+Available post completion of selected modules.
+Advanced AI Engineering Program from India's oldest technical institute.
+
+IIT-Roorkee Rankings:
+  - Rank 8 on NIRF, Overall - 2023
+  - Rank 6 on NIRF, Engineering - 2024
+
+Alumni at: Amazon, Microsoft, GE, Goldman Sachs, Adobe
+
+Program Highlights:
+  - Domain-specific AI use cases for practical learning
+  - Certificate from one of the top institutes in India
+  - Curriculum designed by expert IIT faculty
+  - Learn by building AI & ML applications for different problems
+
+Campus Immersion (2 Days):
+  - Access to research labs with cutting-edge tech
+  - IIT-Roorkee resources & facilities
+  - Food & accommodation included
+  - Fireside chat with industry experts
+
+IIT-Roorkee Instructor:
+  Name      : Pravendra Singh (Assistant Professor, IIT-Roorkee)
+  Education : Ph.D. in CSE from IIT Kanpur
+  Research  : 19 articles published in renowned journals
+  Awards    : 10+ awards & grants from IITs, Google, Microsoft, etc.
+
+--------------------------------------------------------------------------------
+YOUR CERTIFICATES
+--------------------------------------------------------------------------------
+  1. Certificate of Excellence from Scaler (on course completion)
+  2. Add-on Certificate from IIT-Roorkee CEC (for IIT-Roorkee add-on enrollees)
+
+--------------------------------------------------------------------------------
+INSTRUCTORS - Training You to Reach the Top
+--------------------------------------------------------------------------------
+1. Anshuman Singh  | Co-Founder, Scaler | Ex-Facebook (Meta)
+   - Two-time ACM ICPC world finalist
+   - Founding team member of Facebook Messenger; worked with Mark Zuckerberg
+
+2. Shivank Agarwal | Ex-Microsoft
+   - Senior V.P., Data Science at Scaler
+   - Ex-Senior Software Development Manager, Microsoft
+   - Ex-Engineering Manager, Inmobi
+   - Ex-Software Development Manager, Oracle
+
+3. Naman Bhalla    | Ex-Google
+   - Global rank 135 at Google's Kickstart Round D
+   - 37th rank at ACM ICPC Kanpur Regionals 2019-20
+   - Heads and builds Scaler Topics
+
+4. Saurabh Kango  | Sr. DS & Analytics Manager, Meesho
+   - Leads AI-powered analytics initiatives at Meesho, Bengaluru
+
+5. Shubham Singh  | Software Engineer, Uber
+   - Builds products at scale across global mobility platforms
+   - Ex-Software Engineer at Dream11
+
+6. Thanish Batcha | Senior Data Scientist, Poshmark (ex-Amazon)
+   - Works on ML systems for social commerce platforms
+
+--------------------------------------------------------------------------------
+MENTORS TO GUIDE YOU
+--------------------------------------------------------------------------------
+1. Kunal Rathod    | Data Scientist, Google
+   - Experience in enterprise products, media, aviation, healthcare, consulting
+
+2. Sumedh Chandaluri | Sr. ML Engineer, Quantiphi
+   - 5+ years in Data Science, Data Analytics, AI/ML, Statistics, Deployment
+
+3. Abhishek Kumar  | Sr. Manager Data Science, American Express
+   - 6+ years developing ML/AI models for business outcomes
+
+4. Sajjad Manal    | Applied Scientist, Microsoft
+   - Uses ML to solve business problems; independent research projects
+
+--------------------------------------------------------------------------------
+FIND YOUR STARTING POINT - Batch Allocation
+--------------------------------------------------------------------------------
+Based on the Scaler Assessment Test (Batch Allocation Test):
+
+  BEGINNER     : Non-coders                | 16-20 months journey
+  INTERMEDIATE : 0-2 years coding experience | 14-16 months journey
+
+--------------------------------------------------------------------------------
+CHOOSE HOW HIGH YOU'LL GO - Career Pathways
+--------------------------------------------------------------------------------
+Block 1: Data Analysis & Visualisation
+  Roles: Data Analyst, BI Analyst, Domain Analyst, Research Analyst, Risk Analyst
+
+Block 2: Machine Learning
+  Roles: ML Engineer, ML Scientist, Data Scientist, AI Engineer, AI Researcher,
+         Predictive Modeler, Quantitative Analyst
+
+Block 3: Computer Vision (Optional)
+  Roles: Computer Vision Engineer, Robotics Engineer, Deep Learning Engineer, Research Scientist
+
+Block 4: Natural Language Processing (Optional)
+  Roles: NLP Engineer, Chatbot Developer, Data Scientist (NLP), ML Engineer (NLP)
+
+Note: Completing a block requires clearing the required evaluation for each module.
+
+--------------------------------------------------------------------------------
+COMMUNITY & NETWORK
+--------------------------------------------------------------------------------
+  - Network of 55k+ learners and alumni
+  - Collaborative peer learning environment
+  - Alumni network for insights and mentorship
+  - Scaler City Clubs for offline events, workshops, and networking
+
+--------------------------------------------------------------------------------
+BATCH PROFILE - Others on the Same Path
+--------------------------------------------------------------------------------
+Learners' Work Experience:
+  - 0-1 Years  : 28%
+  - 1-4 Years  : 35%
+  - 4-7 Years  : 23%
+  - 7+ Years   : 14%
+
+Learners' Background:
+  - IT Engineering    : 42%
+  - Non-Tech          : 40%
+  - Non-IT Engineering: 10%
+  - Data Science      : 8%
+
+--------------------------------------------------------------------------------
+CAREER TRANSITIONS OF LEARNERS
+--------------------------------------------------------------------------------
+Sample transitions (data as of Jan 1, 2024):
+  Data Scientist (DeHaat)        → Lead Data Scientist (Mahaseel)
+  Member of Technical Staff (Edgeverve) → ML Engineer (Apple)
+  Business Intelligence Analyst (Algonomy) → Sr. Data Engineer (VeARC)
+  Systems Engineer (TCS)         → Data Scientist (Amazon)
+  Data Scientist (BRIDGEi2i)     → Lead Data Scientist (Inference)
+  Sr. Analyst (Lowe's)           → Data Scientist (American Express)
+
+Note: Past results do not guarantee future placements.
+Assessed by B2K Analytics.
+
+--------------------------------------------------------------------------------
+PLACEMENT OUTCOMES & ROLES (Avg. CTC Data)
+--------------------------------------------------------------------------------
+Role                 | Share | Avg. CTC
+---------------------|-------|------------------
+Data Scientist       | 22%   | Rs. 20,28,226
+Sr. Data Scientist   | 12%   | Rs. 45,21,877
+Sr. Developer        | 18%   | Rs. 24,06,200
+Tech Lead            | 12%   | Rs. 32,03,125
+Manager              | 12%   | Rs. 22,41,563
+ML Engineer          |  9%   | Rs. 22,21,667
+Consultant           |  9%   | Rs. 41,43,846
+Mid-senior Developer |  3%   | Rs. 24,75,000
+Leadership           |  2%   | Rs. 39,66,667
+Sr. ML Engineer      |  1%   | Rs. 35,00,000
+
+Note: Data includes learners who completed mandatory modules and 6+ months
+post-completion, as of Jan 1, 2024. Assessed by B2K Analytics.
+
+--------------------------------------------------------------------------------
+SCALER PLACEMENT ASSISTANCE
+--------------------------------------------------------------------------------
+900+ placement partners including:
+  TCS, Cognizant, Deloitte, ICICI Bank, EY, Accenture, Amazon, IMPACT Analytics,
+  IBM, Mindtree, Cisco, American Express, EXL, Fractal, MPL, MathCo,
+  Standard Chartered, Genpact, ZS, Morningstar, Infosys, Regeneron, Mitel,
+  United Healthcare
+
+Services:
+  - Mock interviews with mentors
+  - Resume-building sessions
+  - Job access via 900+ partner network
+
+--------------------------------------------------------------------------------
+ABOUT SCALER - Transforming Careers Since 2019
+--------------------------------------------------------------------------------
+Key Figures:
+  - 55k+ satisfied learners
+  - Top 1% industry instructors
+  - 89.5% success rate
+
+Programs Offered:
+  Online:
+    - Modern Software and AI Engineering Program
+    - Modern Data Science and ML with specialisation in AI
+    - Advanced AIML with Specialisation in Agentic AI
+    - DevOps, Cloud & AI Platform Engineering
+    - Neovarsity (Master's Degree)
+  Offline:
+    - Scaler School of Technology
+    - Scaler School of Business
+
+Backed by:
+  - Kunal Shah       (Founder, CRED)
+  - Deepinder Goel   (Co-founder, Zomato)
+  - Binny Bansal     (Co-Founder, Flipkart)
+  - Rajan Anandan    (MD, Peak XV)
+  - Vijay Shekhar Sharma (MD, Paytm)
+
+--------------------------------------------------------------------------------
+THE SCALER EDGE
+--------------------------------------------------------------------------------
+  - 24x7 AI Companion          : Contextual help & dialogue-based solutioning
+  - Unlimited AI Mock Interviews: Role-based simulations for MAANG interviews
+  - AI-Powered Resume Builder  : ATS-ready resumes; 5x more interview calls
+  - Taught by Industry Leaders : On-the-job professionals, rated by 55k+ learners
+  - Live Classes with Recording: Instant recordings & notes for revision
+  - Expert Mentor Guidance     : 1:1 personalized advice from top-firm mentors
+  - Monthly Contests           : Module-specific job-readiness tests
+  - Skill Certifications       : Module-level certifications recruiters trust
+  - Coding Streak              : Daily practice with rewards & streak freeze
+  - Extend into Master's Degree: Scaler credits convert into a global Master's via Woolf
+
+--------------------------------------------------------------------------------
+LEARNER TESTIMONIALS
+--------------------------------------------------------------------------------
+1. Avijit Swain (GN):
+   "The last 1 year at Scaler has literally altered the course of my life.
+   From being completely directionless and hopeless to regaining my confidence,
+   this has been an unbelievable turnaround for me."
+
+2. Sunshodan Makkar (Amber):
+   "Instructors like Mohit Uniyal and Scaler's teaching assistants made my
+   transition into the DSML field very smooth. I discovered a genuine interest
+   and passion for Data Analytics through this journey."
+
+3. Mayank Khandelwal (CAM COM):
+   "The best way to learn something is by diving straight into the deep end.
+   Having an in-depth understanding of projects we can target as a fresher or
+   experienced professional was super exciting."
+
+--------------------------------------------------------------------------------
+CONTACT & ENROLMENT
+--------------------------------------------------------------------------------
+Website : www.scaler.com
+Action  : Apply Now
+
+================================================================================
+END OF BROCHURE
+================================================================================
